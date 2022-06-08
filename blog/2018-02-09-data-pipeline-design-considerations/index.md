@@ -4,6 +4,7 @@ title: Data Pipeline Design Considerations
 authors:
     name: Jake
 tags: [data, pipeline, design]
+hide_table_of_contents: true
 ---
 
 

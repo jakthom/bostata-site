@@ -1,6 +1,7 @@
 ---
 slug: staying-fresh-with-freshness-tables
 title: Staying Fresh with Freshness Tables
+hide_table_of_contents: true
 ---
 
 

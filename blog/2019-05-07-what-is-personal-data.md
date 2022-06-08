@@ -4,6 +4,7 @@ title: GDPR for Engineers - What is Personal Data?
 authors:
     name: Jake
 tags: [gdpr, engineers, data privacy]
+hide_table_of_contents: true
 ---
 
 We all know that GDPR (also known as RGPD in France) has brought data policy into the spotlight for many technical organizations. As of May 25, 2018, if your systems (both automated and otherwise!) handle PII of individuals residing in the EU, you must comply with regulation. While this enforcement date makes the topic seem like old news, many US-based companies are unclear of the specifics and vastly underprepared to deal with the implications.

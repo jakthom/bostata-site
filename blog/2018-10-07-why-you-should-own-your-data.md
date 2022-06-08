@@ -4,6 +4,7 @@ title: Why Your Company Should Own Its Own Data
 authors:
     name: Jake
 tags: [data, ownership]
+hide_table_of_contents: true
 ---
 
 When considering software and related infrastructure, the business of today is caught in a never-ending cycle of "build vs. buy". Many third-party companies solve serious challenges such as managing sales pipelines, accounting automation, payment processing, and internal communication. These alternatives to "building it yourself" empower companies to operate faster or more efficiently, and overall benefit to the customer is often net-positive. When considering various alternatives, there is one critical component of your business that you should strongly reconsider leaving in the hands of third parties, however: your data and supporting data infrastructure.

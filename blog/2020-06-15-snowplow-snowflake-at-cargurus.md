@@ -4,6 +4,7 @@ title: 268 Billion Events With Snowplow and Snowflake at Cargurus
 authors:
   name: Jake
 tags: [snowplow, snowflake, cargurus]
+hide_table_of_contents: true
 ---
 
 

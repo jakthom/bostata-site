@@ -1,6 +1,7 @@
 ---
 slug: how-to-install-and-configure-snowsql
 title: How To Install and Configure SnowSQL
+hide_table_of_contents: true
 ---
 
 [SnowSQL](https://docs.snowflake.com/en/user-guide/snowsql.html) is the command-line interface for accessing your Snowflake instance.

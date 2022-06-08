@@ -4,6 +4,7 @@ title: Client-side instrumentation for under $1 per month. No servers necessary.
 authors:
     name: Jake
 tags: [snowplow, serverless, instrumentation]
+hide_table_of_contents: true
 ---
 
 In a world where the importance of data is steadily increasing yet the cost of computing power is steadily decreasing, there are fewer and fewer excuses to not have control of your own data. To explore that point I instrumented this site as inexpensively as I possibly could, without sacrificing reliability or functionality. I have full control of all data that is generated, the instrumentation is highly customizable, the output is simple to use, and I don't have to be available at all hours to keep it working.

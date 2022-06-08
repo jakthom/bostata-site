@@ -4,6 +4,7 @@ title: GDPR for Engineers - What You Need to Know
 authors:
     name: Jake
 tags: [gdpr, engineers, data privacy]
+hide_table_of_contents: true
 ---
 
 GDPR was approved by EU parliament on April 14, 2016, went into effect May 25, 2018, and impacts any business handling any personal data of any EU resident.
