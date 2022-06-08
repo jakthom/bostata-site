@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[8042],{5066:function(t){t.exports=JSON.parse('{"label":"instrumentation","permalink":"/tags/instrumentation","allTagsPath":"/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[2987],{5644:function(a){a.exports=JSON.parse('{"label":"data privacy","permalink":"/tags/data-privacy","allTagsPath":"/tags","count":2}')}}]);

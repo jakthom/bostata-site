@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[6150],{6697:function(s){s.exports=JSON.parse('{"label":"ownership","permalink":"/tags/ownership","allTagsPath":"/tags","count":1}')}}]);
